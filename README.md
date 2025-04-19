@@ -1,6 +1,6 @@
 # ft_printf
 
-![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whi)  
+![C Language](https://github.com/senthilpoo10/badges/blob/main/badges/ft_printfe.png)  
 *Reimplementing printf() — because `ft_putnbr()` and `ft_putstr()` aren’t enough!*
 
 ---
