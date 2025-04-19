@@ -1,6 +1,6 @@
 # ft_printf
 
-![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whi)  
 *Reimplementing printf() — because `ft_putnbr()` and `ft_putstr()` aren’t enough!*
 
 ---
@@ -29,4 +29,4 @@ This project involves recreating the standard C library function `printf()`, foc
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ft_printf.git
+   git clone https://github.com/coding-school-projects/ft_printf.git
