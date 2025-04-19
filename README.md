@@ -38,7 +38,7 @@ This project involves recreating the standard C library function `printf()`, foc
 - **Flags**: `-0.` (left-justify, zero-pad, precision)  
 - **Modifiers**: `# +` (alternate form, force sign, space padding)
 
-## 🧑‍💻 Peer Evaluations (3/3)
+### 🧑‍💻 Peer Evaluations (3/3)
 Peer 1: "Poonkodi has done great job getting all format specifiers work as intended. She had decided to cut the exucution when unknown format specifier was encountered, which I interpreted to follow the vague instructions given in the subject. She also justified not including libft to the makefile. Only minor mistake was in the headerfile, where I found an double found_u function prototype but it did not have any effect to the functionality of the work. Therefore, I ignored that. Good work, and good luck for the future."
 
 Peer 2: "Poonkodi, has shown great confidence in her code and has a great attitude towards the project. She has a great attitude towards the school and is a very positive person, she obviously knows what she's doing. Great job poonkodi, good luck!"
