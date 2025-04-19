@@ -1,5 +1,3 @@
-# ft_printf
-
 <h1 align="center">
 	<img src="https://github.com/senthilpoo10/badges/blob/main/badges/ft_printfe.png" />
 </h1>
@@ -15,10 +13,10 @@
     <img alt="estimated time" src="https://img.shields.io/badge/time%20spent-50%20hours-blue" />
     <img alt="XP earned" src="https://img.shields.io/badge/XP%20earned-312-orange" />
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/your-username/ft_printf?color=lightblue" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/your-username/ft_printf?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/your-username/ft_printf?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/your-username/ft_printf?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/senthilpoo10/ft_printf?color=lightblue" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/senthilpoo10/ft_printf?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/senthilpoo10/ft_printf?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/senthilpoo10/ft_printf?color=green" />
 </p>
 
 ## Summary
